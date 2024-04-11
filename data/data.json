@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Chicago Bulls",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/1200px-Chicago_Bulls_logo.svg.png",
+    "state": "Illinois",
+    "championships": "6",
+    "id": 0
+  },
+  {
+    "name": "Los Angeles Lakers",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+    "state": "California",
+    "championships": "17",
+    "id": 1
+  },
+  {
+    "name": "San Antonio Spurs",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/1200px-San_Antonio_Spurs.svg.png",
+    "state": "Texas",
+    "championships": "5",
+    "id": 2
+  },
+  {
+    "name": "Miami Heat",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
+    "state": "Florida",
+    "championships": "3",
+    "id": 3
+  }
+]
